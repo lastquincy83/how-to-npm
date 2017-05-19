@@ -1,0 +1,27 @@
+{
+  "name": "@lastquincy83/damian",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastquincy83/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "tutorial"
+  ],
+  "author": "damian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lastquincy83/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/lastquincy83/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
